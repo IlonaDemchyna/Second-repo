@@ -1,0 +1,10 @@
+1	Bob Dylan	"Like a Rolling Stone"	1965
+2	The Rolling Stones	"(I Can't Get No) Satisfaction"	1965
+3	John Lennon	"Imagine"	1971
+4	Marvin Gaye	"What's Going On"	1971
+5	Aretha Franklin	"Respect"	1967
+6	The Beach Boys	"Good Vibrations"	1966
+7	Chuck Berry	"Johnny B. Goode"	1958
+8	The Beatles	"Hey Jude"	1968
+9	Nirvana	"Smells Like Teen Spirit"	1991
+10	Ray Charles	"What'd I Say"	1959
