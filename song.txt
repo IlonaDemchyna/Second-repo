@@ -7,4 +7,3 @@
 7	Chuck Berry	"Johnny B. Goode"	1958
 8	The Beatles	"Hey Jude"	1968
 9	Nirvana	"Smells Like Teen Spirit"	1991
-10	Ray Charles	"What'd I Say"	1959
