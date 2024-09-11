@@ -1,2 +1,5 @@
-# Second-repo
-Second repository
+# new_repo
+
+My first repo
+
+Some info...

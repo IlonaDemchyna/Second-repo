@@ -1,0 +1,3 @@
+some text for new branch
+
+text for 2nd commit

@@ -1,0 +1,21 @@
+1	Bob Dylan	"Like a Rolling Stone"	1965
+2	The Rolling Stones	"(I Can't Get No) Satisfaction"	1965
+3	John Lennon	"Imagine"	1971
+4	Marvin Gaye	"What's Going On"	1971
+5	Aretha Franklin	"Respect"	1967
+6	The Beach Boys	"Good Vibrations"	1966
+7	Chuck Berry	"Johnny B. Goode"	1958
+8	The Beatles	"Hey Jude"	1968
+9	Nirvana	"Smells Like Teen Spirit"	1991
+
+
+
+ADDED in GITHUB
+"I Am the Best"	2NE1	2011	Written by Teddy Park[3][4]
+"Dancing Queen"	ABBA	1976	Written by Benny Andersson, Björn Ulvaeus and Stig Anderson[5]
+"I Will Go to You Like the First Snow"	Ailee	2017	[6]
+"Beautiful"	Christina Aguilera	2002	Written by Linda Perry.[7][8] Featured on Aguilera's fourth studio album, Stripped.
+"Lili Marlene"	Lale Andersen[9]	1939	There is a Lili Marlene and Lale Andersen memorial in Langeoog, Germany.
+"Rose Garden"	Lynn Anderson	1970	Written by Joe South[10]
+
+
